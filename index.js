@@ -14,9 +14,11 @@ function logWhisper(string) {
   console.log(whisper(string))
 }
 
-function sayHiToGrandma(string) {
- if () {
+function sayHiToGrandma(sentence) {
+ if() {
    
+
+}
    string === string.toLowerCase()) 
  return `I can't hear you!`
  {
@@ -26,4 +28,3 @@ function sayHiToGrandma(string) {
  
  string === "I love you, Grandma."
  return `I love you, too.`
-}
